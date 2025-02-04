@@ -3,6 +3,5 @@ public class Second {
         System.out.println("hello");
         System.out.println("hiiii");
         System.out.println("second local");
-        System.out.println("remote rollback);
     }
 }
